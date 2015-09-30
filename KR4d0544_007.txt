@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 句曲外史貞居先生詩集
+#+DATE: 2015-09-23 10:26:57
+#+PROPERTY: JUAN 7
+
+<md:KR4d0544_WYG_007-6b>¶
+一枝<md:KR4d0544_WYG_007-7a>¶風¶竹鵓鳩眠

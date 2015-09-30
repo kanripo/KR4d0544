@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 句曲外史貞居先生詩集
+#+DATE: 2015-09-23 10:26:57
+#+PROPERTY: JUAN 5
+
+<md:KR4d0544_WYG_007-7a>¶
+一
